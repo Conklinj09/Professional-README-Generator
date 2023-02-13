@@ -31,6 +31,6 @@
 # Email
 Conklinj09@gmail.com
 
-#GitHub
+# GitHub
 https://github.com/Conklinj09/Professional-README-Generator
 
