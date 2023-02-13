@@ -8,10 +8,10 @@
  Installation, 
  Usage, 
  Contributing, 
- Tests, 
- License, 
+ Tests,  
  Email, 
- GitHub
+ GitHub,
+ License
  
 ## Installation
  Inquirer
@@ -25,12 +25,12 @@
 ## Tests
  NA
 
-## License
-![github license](https://img.shields.io/badge/License-Apache-blue.svg)
-
-# Email
+## Email
 Conklinj09@gmail.com
 
-# GitHub
+## GitHub
 https://github.com/Conklinj09/Professional-README-Generator
+
+## License
+![github license](https://img.shields.io/badge/License-Apache-blue.svg)
 
